@@ -15,16 +15,16 @@
 
 ## 👨‍💻 Sobre mim
 
-Sou um desenvolvedor focado em **Backend**, apaixonado por tecnologia e pelo desenvolvimento de soluções que resolvem problemas reais.
+Sou um desenvolvedor focado em **Backend**, interessado em criar soluções eficientes, desenvolver APIs e aprimorar continuamente minhas habilidades em engenharia de software.
 
-Atualmente, estou aprofundando meus conhecimentos em desenvolvimento de APIs, bancos de dados, arquitetura de software e boas práticas de programação.
+Atualmente, estou aprofundando meus conhecimentos em desenvolvimento backend, bancos de dados, arquitetura de software e boas práticas de programação.
 
 - 🚀 Foco em **TypeScript, Node.js e NestJS**
 - 🔧 Desenvolvimento de **APIs REST**
 - 🗄️ Estudando bancos de dados relacionais e ORMs
 - 🐳 Explorando **Docker, Redis e ferramentas de infraestrutura**
-- 📚 Aprimorando conhecimentos em **arquitetura de software, testes e Clean Code**
-- 🎯 Objetivo: evoluir como desenvolvedor Backend e construir aplicações robustas e escaláveis
+- 📚 Aprimorando conhecimentos em **arquitetura de software, testes automatizados e Clean Code**
+- 🎯 Buscando evoluir profissionalmente como desenvolvedor Backend
 
 ---
 
@@ -65,7 +65,7 @@ Adicione seus melhores projetos aqui futuramente.
 
 ### Nome do projeto
 
-Descrição breve do projeto, funcionalidades e tecnologias.
+Descrição breve do projeto, funcionalidades e tecnologias utilizadas.
 
 [Ver repositório](LINK_DO_REPOSITORIO)
 
@@ -76,7 +76,9 @@ Descrição breve do projeto, funcionalidades e tecnologias.
 
 <div align="center">
 
-![Linguagens mais utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Edmilson18&layout=compact&theme=github_dark&hide_border=true)
+![Estatísticas do GitHub](https://github-stats-extended.vercel.app/api?username=Edmilson18&show_icons=true&theme=github_dark&hide_border=true)
+
+![Linguagens mais utilizadas](https://github-stats-extended.vercel.app/api/top-langs/?username=Edmilson18&layout=compact&theme=github_dark&hide_border=true)
 
 </div>
 
@@ -102,13 +104,19 @@ Descrição breve do projeto, funcionalidades e tecnologias.
 
 ---
 
+
 ## 📫 Contato
 
 <div align="center">
 
+Estou aberto a conexões profissionais, colaborações e oportunidades na área de desenvolvimento Backend.
+
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Edmilson18)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edmilson-carmo)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5585984656863)
 
 </div>
+
 
 ---
 
